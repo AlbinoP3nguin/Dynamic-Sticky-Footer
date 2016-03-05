@@ -7,4 +7,5 @@ Quick start
 -----------
 Check out the files. All the instructions are well explained in each file (especially the .css files).
 
-There are working examples of different features as well as a boilerplate that you can use as a base for your website.
+In the examples folder you will find functioning examples of different features as well.
+In the boilerplate folder there is a boilerplate with the css that you can use as a base for your website.
