@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 5, 2016, 7:09:15 PM
+    Author     : bob
+*/
+
+/* 1. Height must be set to 100% otherwise the webpage won't expand to fill the 
+ *    whole page.
+ * 2. Sticky footer does not work properly when default margin of browser is not
+ *    0px.
+ */
+html, body {
+    height: 100%; /* 1 */
+    width: 100%;
+    margin: 0; /* 2 */
+}
+
+/* 1. Turns the container into a css table. 
+ */
+.sf-container { 
+    display: table; /* 1 */
+}
+
+/* 1. Turns the section into a css table row. 
+ */
+.sf-section-expand, .sf-section-fit {
+    display: table-row; /* 1 */
+}
+
+/* 2. Expandable sections must have "display: auto" to automatically expand to 
+ *    fill extra space. ** NOTE ** Space is split between all .sf-section-expand.
+ * 3. Non-expandable sections must have a set height to ensure to override any
+ *    browser default behavior.
+ * 4. Non-expandable sections automatically expand to size of their content.
+ */
+.sf-section-expand { 
+    height: auto; /* 1 */
+}
+
+.sf-section-fit { 
+    height: 1px; /* 2 */ /* 3 */
+}
+
+/* 1. Last container necessary to finish the css table. Any content should be in
+ *    elements inside this one. 
+ * 2. !! IMPORTANT !! 
+ *    Use for "text-align: left/center/right" to align child content or "float:
+ *    right/left" on .sf-content.
+ * 3. For semantics. By default, a single table cell inside a table row will be
+ *    "width: 100%;".
+ */
+.sf-cell {
+    display:table-cell; /* 1 */
+    text-align: center; /* 2 */ /* Recommended for general web development */
+    width: 100%; /* 3 */
+}
+
+.sf-content {
+            /* 2 */
+}
+
+/*    ** FINISHING NOTES ** -- !! IMPORTANT !!
+ * 1. Another known issue is that centering using "margin: 0 auto;" does not 
+ *    work. However, fixed padding in .sf-cell and fixed margins in child 
+ *    elements of .sf-cell will work.
+ * 2. In regards to styling, it goes by level.
+ *           Level                 Class to style
+ *    Table level styles  | .sf-container
+ *    Row level styles    | .sf-section-expand, .sf-section-fit
+ *    Cell level styles   | .sf-cell
+ *    Cell content styles | .sf-content
+ */

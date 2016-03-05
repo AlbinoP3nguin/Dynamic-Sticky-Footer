@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 5, 2016, 10:42:43 PM
+    Author     : bob
+*/
+
+body {
+    background-color: azure;
+}
+
+
+/*    ** FINISHING NOTES ** -- !! IMPORTANT !!
+ * 1. A known issue is that centering using "margin: 0 auto;" does not 
+ *    work. However, fixed padding in .sf-cell and fixed margins in child 
+ *    elements of .sf-cell will work.
+ * 2. In regards to styling, it goes by level.
+ *           Level                 Class to style
+ *    Table level styles  | .sf-container
+ *    Row level styles    | .sf-section-expand, .sf-section-fit
+ *    Cell level styles   | .sf-cell
+ *    Cell content styles | .sf-content
+ */
+
+.sf-section-expand .sf-cell { 
+    border-left: 10px solid blueviolet;
+}
+
+.sf-section-fit .sf-cell { 
+    border-left: 10px solid gold;
+}
+
+/* Expander styles to showcase footer getting pushed down if enough content */
+
+.expander {
+    padding: 20px;
+}
+
+.expander-content {
+    display: none;
+    height: 2000px;
+    min-width: 50px;
+    background-color: lightblue;
+}
+/* Expands only when hovered or when in focus */
+.expander:hover .expander-content,
+.expander:focus .expander-content {
+    display: block;
+}
