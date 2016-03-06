@@ -21,10 +21,12 @@ html, body {
 
 /* 1. Turns the container into a css table.
  * 2. Simply a preferred default.
+ * 3. Added word-wrap which does not apply to tables by default
  */
 .sf-container { 
     display: table; /* 1 */
     text-align: center; /* 2 */
+    word-wrap: break-word; /* 3 */
 }
 
 /* 1. Turns the section into a css table row. 
@@ -53,15 +55,17 @@ html, body {
  *    "width: 100%;".
  * 3. To center content, use "margin: 0 auto". **NOTE** for margin to work, width
  *    must be set to something other than 100%.
+ * 4. Allows content to be styled normally. (Tables behave strangely)
  */
 .sf-cell {
     display:table-cell; /* 1 */
-    width: 100%; /* 3 */
+    width: 100%; /* 2 */
 }
 
 .sf-content {
     width: 500px; /* 3 */
-    margin: 0 auto; /* 3 */
+    margin: 0 auto; /*  3 */
+    display:block; /* 4 */
 }
 
 /*    ** FINISHING NOTES ** -- !! IMPORTANT !!

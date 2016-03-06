@@ -16,7 +16,7 @@ Dynamic Sticky Footer is supported in many more browsers and much older browsers
 
 |Property | ![Google Chrome](http://www.w3schools.com/images/compatible_chrome.gif) | ![Edge](http://www.w3schools.com/images/compatible_edge.gif)| ![Internet Explorer](http://www.w3schools.com/images/compatible_ie.gif) | ![Firefox](http://www.w3schools.com/images/compatible_firefox.gif)| ![Safari](http://www.w3schools.com/images/compatible_safari.gif) | ![Opera](http://www.w3schools.com/images/compatible_opera.gif)|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|display | 4.0 | 12.0 | 8.0<br>Partial from 5.5 | 3.0 | 3.1 | 7.0|
+|display | 4.0 | 12.0 | 8.0 | 3.0 | 3.1 | 7.0|
 
 **Flexbox** 
 
