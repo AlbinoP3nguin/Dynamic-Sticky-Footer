@@ -2,7 +2,7 @@ Dynamically Sized Sticky Footer
 ===============================
 This is a **dynamically sized** sticky footer that sinks to the bottom of the webpage even if the content doesn't fill the page.
 The height does not need to be manually specified and automatically resizes to the content.
-It uses css tables with a table > row > single cell hierarchy.
+It uses css tables with a *table > row > single cell > content* hierarchy.
 
 Benefits Over Other Solutions
 -----------------------------
