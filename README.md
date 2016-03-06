@@ -15,13 +15,13 @@ Dynamic Sticky Footer is supported in many more browsers and much older browsers
 **Display** (What Dynamic Sticky Footer Uses)  
 
 |Property | ![Google Chrome](http://www.w3schools.com/images/compatible_chrome.gif) | ![Edge](http://www.w3schools.com/images/compatible_edge.gif)| ![Internet Explorer](http://www.w3schools.com/images/compatible_ie.gif) | ![Firefox](http://www.w3schools.com/images/compatible_firefox.gif)| ![Safari](http://www.w3schools.com/images/compatible_safari.gif) | ![Opera](http://www.w3schools.com/images/compatible_opera.gif)|
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |display | 4.0 | 12.0 | 8.0<br>Partial from 5.5 | 3.0 | 3.1 | 7.0|
 
 **Flexbox** 
 
 |Property | ![Google Chrome](http://www.w3schools.com/images/compatible_chrome.gif) | ![Edge](http://www.w3schools.com/images/compatible_edge.gif)| ![Internet Explorer](http://www.w3schools.com/images/compatible_ie.gif) | ![Firefox](http://www.w3schools.com/images/compatible_firefox.gif)| ![Safari](http://www.w3schools.com/images/compatible_safari.gif) | ![Opera](http://www.w3schools.com/images/compatible_opera.gif)|
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |Basic support<br>(single-line flexbox) | 29.0<br>21.0&nbsp;-webkit- | 12.0 | 11.0 | 22.0<br>18.0&nbsp;-moz- | 6.1&nbsp;-webkit- | 12.1&nbsp;-webkit-</td>|
 |Multi-line flexbox | 29.0<br>21.0&nbsp;-webkit- | 12.0 | 11.0 | 28.0 | 6.1&nbsp;-webkit- | 17.0<br>15.0&nbsp;-webkit-<br>12.1|
 
