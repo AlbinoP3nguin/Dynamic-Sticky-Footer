@@ -18,12 +18,12 @@ Dynamic Sticky Footer is supported in many more browsers and much older browsers
 | --- | --- | --- | --- | --- | --- | --- |
 |display | 4.0 | 12.0 | 8.0<br>Partial from 5.5 | 3.0 | 3.1 | 7.0|
 
-[logo1](http://www.w3schools.com/images/compatible_chrome.gif "Google Chrome")
-[logo2](http://www.w3schools.com/images/compatible_edge.gif "Edge")
-[logo3](http://www.w3schools.com/images/compatible_ie.gif "Internet Explorer")
-[logo4](http://www.w3schools.com/images/compatible_firefox.gif "Firefox")
-[logo5](http://www.w3schools.com/images/compatible_safari.gif "Safari")
-[logo6](http://www.w3schools.com/images/compatible_opera.gif "Opera")
+[logo1](http://www.w3schools.com/images/compatible_chrome.gif)
+[logo2](http://www.w3schools.com/images/compatible_edge.gif)
+[logo3](http://www.w3schools.com/images/compatible_ie.gif)
+[logo4](http://www.w3schools.com/images/compatible_firefox.gif)
+[logo5](http://www.w3schools.com/images/compatible_safari.gif)
+[logo6](http://www.w3schools.com/images/compatible_opera.gif)
 
 **Flexbox** (What Dynamic Sticky Footer Uses)  
 
@@ -39,7 +39,7 @@ Dynamic Sticky Footer is supported in many more browsers and much older browsers
 [logo5](http://www.w3schools.com/images/compatible_safari.gif "Safari")
 [logo6](http://www.w3schools.com/images/compatible_opera.gif "Opera")
 
-*Courtesy of [w3schools.com](http://www.w3schools.com "w3schools.com")* 
+*Courtesy of [w3schools.com](http://www.w3schools.com "w3schools.com")*  
 [Display Property](http://www.w3schools.com/cssref/pr_class_display.asp)  
 [Flexbox Property](http://www.w3schools.com/css/css3_flexbox.asp)
 
