@@ -14,30 +14,20 @@ Dynamic Sticky Footer is supported in many more browsers and much older browsers
 
 **Display** (What Dynamic Sticky Footer Uses)  
 
-|Property | ![Google Chrome](logo1) | ![Edge](logo2) | ![Internet Explorer](logo3) | ![Firefox](logo4) | ![Safari](logo5) | ![Opera](logo6)|
+|Property | ![Google Chrome](http://www.w3schools.com/images/compatible_chrome.gif) | ![Edge](http://www.w3schools.com/images/compatible_edge.gif)
+| ![Internet Explorer](http://www.w3schools.com/images/compatible_ie.gif) | ![Firefox](http://www.w3schools.com/images/compatible_firefox.gif)
+| ![Safari](http://www.w3schools.com/images/compatible_safari.gif) | ![Opera](http://www.w3schools.com/images/compatible_opera.gif)|
 | --- | --- | --- | --- | --- | --- | --- |
 |display | 4.0 | 12.0 | 8.0<br>Partial from 5.5 | 3.0 | 3.1 | 7.0|
 
-[logo1](http://www.w3schools.com/images/compatible_chrome.gif)
-[logo2](http://www.w3schools.com/images/compatible_edge.gif)
-[logo3](http://www.w3schools.com/images/compatible_ie.gif)
-[logo4](http://www.w3schools.com/images/compatible_firefox.gif)
-[logo5](http://www.w3schools.com/images/compatible_safari.gif)
-[logo6](http://www.w3schools.com/images/compatible_opera.gif)
-
 **Flexbox** (What Dynamic Sticky Footer Uses)  
 
-|Property | ![Google Chrome](logo1) | ![Edge](logo2) | ![Internet Explorer](logo3) | ![Firefox](logo4) | ![Safari](logo5) | ![Opera](logo6)|
+|Property | ![Google Chrome](http://www.w3schools.com/images/compatible_chrome.gif) | ![Edge](http://www.w3schools.com/images/compatible_edge.gif)
+| ![Internet Explorer](http://www.w3schools.com/images/compatible_ie.gif) | ![Firefox](http://www.w3schools.com/images/compatible_firefox.gif)
+| ![Safari](http://www.w3schools.com/images/compatible_safari.gif) | ![Opera](http://www.w3schools.com/images/compatible_opera.gif)|
 | --- | --- | --- | --- | --- | --- | --- |
 |Basic support<br>(single-line flexbox) | 29.0<br>21.0&nbsp;-webkit- | 12.0 | 11.0 | 22.0<br>18.0&nbsp;-moz- | 6.1&nbsp;-webkit- | 12.1&nbsp;-webkit-</td>|
 |Multi-line flexbox | 29.0<br>21.0&nbsp;-webkit- | 12.0 | 11.0 | 28.0 | 6.1&nbsp;-webkit- | 17.0<br>15.0&nbsp;-webkit-<br>12.1|
-
-[logo1](http://www.w3schools.com/images/compatible_chrome.gif "Google Chrome")
-[logo2](http://www.w3schools.com/images/compatible_edge.gif "Edge")
-[logo3](http://www.w3schools.com/images/compatible_ie.gif "Internet Explorer")
-[logo4](http://www.w3schools.com/images/compatible_firefox.gif "Firefox")
-[logo5](http://www.w3schools.com/images/compatible_safari.gif "Safari")
-[logo6](http://www.w3schools.com/images/compatible_opera.gif "Opera")
 
 *Courtesy of [w3schools.com](http://www.w3schools.com "w3schools.com")*  
 [Display Property](http://www.w3schools.com/cssref/pr_class_display.asp)  
