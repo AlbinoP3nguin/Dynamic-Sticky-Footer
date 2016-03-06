@@ -12,7 +12,8 @@ Dynamic Sticky Footer automatically adjusts for any content size. You don't need
 **Dynamic Sticky Footer >> Flexbox**  
 Dynamic Sticky Footer is supported in many more browsers and much older browsers than Flexboxes. It also uses a much clearer hierarchy to accomplish it.
 
-**Display** (What Dynamic Sticky Footer Uses)
+**Display** (What Dynamic Sticky Footer Uses)  
+
 |Property | ![Google Chrome](logo1) | ![Edge](logo2) | ![Internet Explorer](logo3) | ![Firefox](logo4) | ![Safari](logo5) | ![Opera](logo6)|
 | --- | --- | --- | --- | --- | --- | --- |
 |display | 4.0 | 12.0 | 8.0<br>Partial from 5.5 | 3.0 | 3.1 | 7.0|
@@ -24,7 +25,8 @@ Dynamic Sticky Footer is supported in many more browsers and much older browsers
 [logo5](http://www.w3schools.com/images/compatible_safari.gif "Safari")
 [logo6](http://www.w3schools.com/images/compatible_opera.gif "Opera")
 
-**Flexbox** (What Dynamic Sticky Footer Uses)
+**Flexbox** (What Dynamic Sticky Footer Uses)  
+
 |Property | ![Google Chrome](logo1) | ![Edge](logo2) | ![Internet Explorer](logo3) | ![Firefox](logo4) | ![Safari](logo5) | ![Opera](logo6)|
 | --- | --- | --- | --- | --- | --- | --- |
 |Basic support<br>(single-line flexbox) | 29.0<br>21.0&nbsp;-webkit- | 12.0 | 11.0 | 22.0<br>18.0&nbsp;-moz- | 6.1&nbsp;-webkit- | 12.1&nbsp;-webkit-</td>|
