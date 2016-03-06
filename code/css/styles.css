@@ -33,7 +33,7 @@ body {
     border-left: 10px solid gold;
 }
 
-/* Expander styles to showcase footer getting pushed down if enough content */
+/* Expander styles to showcase footer getting pushed down when there is enough content */
 
 .expander {
     padding: 20px;

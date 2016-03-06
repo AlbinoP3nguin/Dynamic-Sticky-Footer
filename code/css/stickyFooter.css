@@ -48,7 +48,7 @@ html, body {
 /* 1. Last container necessary to finish the css table. Any content should be in
  *    elements inside this one. 
  * 2. !! IMPORTANT !! 
- *    Use for "text-align: left/center/right" to align child content or "float:
+ *    Use "text-align: left/center/right" to align child content or "float:
  *    right/left" on .sf-content.
  * 3. For semantics. By default, a single table cell inside a table row will be
  *    "width: 100%;".
