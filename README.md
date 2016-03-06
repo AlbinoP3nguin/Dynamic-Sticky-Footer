@@ -38,6 +38,7 @@ To view the examples, just download the zip, extract the files, and open any .ht
 General Rule for Styling
 ------------------------
 In regards to styling, it goes by level.
+
 |       Level        |         Class to style|
 |--------------------|-------------------------------|
 |Table level styles  | `.sf-container`|
